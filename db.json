@@ -1,0 +1,88 @@
+{
+  "teachers": [
+    {
+      "id": "9f2d",
+      "name": "Willy",
+      "lastname": "Wonka Boss",
+      "subjects": [
+        {
+          "name": "Node JS from Scratch"
+        },
+        {
+          "name": "React Js from Scratch"
+        },
+        {
+          "name": "JavaScript from Scratch"
+        },
+        {
+          "name": "Mongo DB from Scratch"
+        }
+      ]
+    },
+    {
+      "id": "3d2d",
+      "name": "Oompa",
+      "lastname": "Loompa",
+      "subjects": [
+        {
+          "name": "TypeScript from Scratch"
+        },
+        {
+          "name": "Next Js from Scratch"
+        }
+      ]
+    }
+  ],
+  "students": [
+    {
+      "id": "456d",
+      "name": "Charlie",
+      "lastname": "Bucket",
+      "gradePointAverage": 8
+    },
+    {
+      "id": "818c",
+      "name": "Mike",
+      "lastname": "Teavee",
+      "gradePointAverage": 9
+    },
+    {
+      "id": "4896",
+      "name": "Violet",
+      "lastname": "Beauregarde",
+      "gradePointAverage": 7
+    },
+    {
+      "name": "Veruca",
+      "lastname": "Salt",
+      "gradePointAverage": 8,
+      "id": "ec9e"
+    },
+    {
+      "id": "a703",
+      "name": "Augustus",
+      "lastname": "Gloop",
+      "gradePointAverage": 7
+    }
+  ],
+  "courses": [
+    {
+      "name": "Node Js from Scratch",
+      "duration": 9,
+      "difficulty": "Beginner",
+      "id": "a6e1"
+    },
+    {
+      "name": "React Js from Scratch",
+      "duration": 14,
+      "difficulty": "Intermediate",
+      "id": "8dbe"
+    },
+    {
+      "id": "bd84",
+      "name": "JavaScript from Scratch",
+      "duration": 22,
+      "difficulty": "Hard"
+    }
+  ]
+}
